@@ -1,6 +1,5 @@
 '''
 Python Project
-by Vinay K (Batch 7), Ananya Sanexa(Batch 8), Annie Jain(Batch 8), Vishesh Bansal(Batch 7), Yashi (Batch 8)
 '''
 # Front End that is GUI (Graphical User Interface)
 from tkinter  import *
